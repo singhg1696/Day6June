@@ -36,4 +36,4 @@ print("Multiplication is \(mul)")
 var div=a-b
 print("Division is \(div)")
 
-print("Gurwinder")
+print("Gurwinder Singh")
