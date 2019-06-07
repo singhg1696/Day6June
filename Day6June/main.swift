@@ -37,3 +37,18 @@ var div=a-b
 print("Division is \(div)")
 
 print("Gurwinder Singh")
+
+var str="Gurwinder"
+
+if str.isEmpty
+{
+    print (str)
+    
+}
+let len=str.count
+print("Length of the String is \(len)")
+
+let rev=String(str.reversed())
+
+print("The reversed string is \(rev)")
+
